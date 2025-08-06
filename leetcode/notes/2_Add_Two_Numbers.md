@@ -29,7 +29,7 @@
 
 
 
-## 3. Code Examples
+## 3. Code
 
 ### 3.1 List (Array) Example
 
